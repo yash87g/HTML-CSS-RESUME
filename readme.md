@@ -18,10 +18,10 @@ Simple Resume built in HTML CSS only!
 ## Feedback
 
 If you have any feedback, please reach out to us at 
+twitter: https://x.com/YashSon46597737
+yash-ig: https://www.instagram.com/_sonar_yash_/
 
 ## Support
 Happy Coding! ✨🚀
 
-[tw]: https://x.com/YashSon46597737
-[yash-ig]: https://www.instagram.com/_sonar_yash_/
-[wc-projects]:https://github.com/yash87g
+
